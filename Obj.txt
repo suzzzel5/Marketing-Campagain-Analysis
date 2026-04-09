@@ -1,0 +1,9 @@
+Main objective of this dataset 
+
+" what type of customer responds to our marketing campagins ? and that drives that decision ?"
+(Hamro customer haru  ko ho ta ? k karan le tini haru le yo campagin ma response garxa )
+
+
+column Response-1 means a customer accepted the last campagin . everything else their age , 
+income, spending , how they shop , family size are clues that explain why they said yes or no
+
