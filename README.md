@@ -12,8 +12,6 @@ This project analyzes a retail marketing campaign dataset to answer practical bu
 - Which channels are preferred?
 - What separates responders from non-responders?
 
-The analysis is done in Jupyter notebooks and supported by clear visual insights.
-
 ## About the Dataset
 
 - **Source file:** `data/marketing_campaign.csv`
@@ -173,8 +171,3 @@ Marketing Campaign/
 ├── Figures/
 └── README.md
 ```
-
-## Author
-
-This project demonstrates practical marketing analytics: from raw customer data to campaign-focused business insights.
-
