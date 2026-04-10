@@ -1,6 +1,7 @@
 # Marketing Campaign Analytics Project
-
+ 
 End-to-end customer and campaign analysis using Python, with data cleaning, feature engineering, exploratory analysis, and business-focused visual storytelling.
+<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/48aa6eb4-9ba2-4355-ba97-2d14ab412b5d" />
 
 ## Project Overview
 
